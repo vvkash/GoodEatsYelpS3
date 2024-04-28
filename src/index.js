@@ -10,5 +10,5 @@ const mainClient = new Client({
 });
 
 Client.login(
-    'MTEzMjgwMzU1NjM3ODkzNTM4Nw.GKhHDH.Uls5vGF_jKV2gvs-0y5aKVbtavMiD8b3y59t6c'
+    ''
 );
